@@ -70,7 +70,12 @@ body.sticky-bottom-footer {
   
 }
 
-
+//use in html as <div id="alt-font"></div>
+#alt-font {
+  font-family: "Marker Felt", fantasy;
+  font-size: 20px;
+  color: --global-text-color;
+}
 
 // TODO: redefine content layout.
 
