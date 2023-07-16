@@ -52,7 +52,6 @@ body.sticky-bottom-footer {
   background-size:cover;
   background-position:center bottom;
   height:15em;
-  width:100%;
   margin-bottom:2em;
   margin-top:-2.7em
   //filter:invert(89%)
@@ -70,7 +69,8 @@ body.sticky-bottom-footer {
 }
 
 .page-content{
-  padding:25px 0
+  padding:25px 0;
+  width: 1200px;
 }
 
 
