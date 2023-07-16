@@ -56,6 +56,17 @@ body.sticky-bottom-footer {
   margin-top:-2.7em
 }
 
+.header-background .img{
+  background-image:url("../img/score_contour.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center bottom;
+  height:15em;
+  margin-bottom:2em;
+  margin-top:-2.7em;
+  filter:invert(89%)
+}
+
 .page-content{
   padding:25px 0
 }
