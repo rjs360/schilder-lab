@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: We study Insect Locomotion through the lens of <strong>Comparative Physiology & Biomechanics</strong>
+subtitle: We study <strong>Insect Locomotion</strong> through the lens of <strong>Comparative Physiology & Biomechanics</strong>
 
 
 # profile:
