@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: team
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Schilder Lab team members
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 3
+display_categories: [current, former]
 horizontal: false
 ---
 
