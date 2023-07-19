@@ -1,7 +1,7 @@
 ---
 layout: page
 title: team
-permalink: /projects/
+permalink: /people/
 description: Schilder Lab team members
 nav: true
 nav_order: 3
