@@ -6,7 +6,7 @@ description: Schilder Lab team members
 nav: true
 nav_order: 3
 display_categories: [current, former]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
