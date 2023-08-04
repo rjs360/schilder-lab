@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-08-04
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our new lab website (although under construction) is officially in use.
