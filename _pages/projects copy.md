@@ -1,7 +1,7 @@
 ---
 layout: page
 title: team
-permalink: /projects/
+permalink: /projects copy/
 description: ongoing and past projects in the lab
 nav: true
 nav_order: 3
