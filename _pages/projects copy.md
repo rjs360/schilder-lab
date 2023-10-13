@@ -2,10 +2,10 @@
 layout: page
 title: team
 permalink: /projects copy/
-description: ongoing and past projects in the lab
+description: current and former lab members
 nav: true
 nav_order: 3
-display_categories: [ongoing, past]
+display_categories: [current, former]
 horizontal: false
 ---
 
