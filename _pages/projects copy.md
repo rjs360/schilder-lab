@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: team
 permalink: /projects/
 description: ongoing and past projects in the lab
 nav: true
