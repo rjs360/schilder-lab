@@ -9,8 +9,8 @@ display_categories: [current, former]
 horizontal: true
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
+<!-- pages/people.md -->
+<div class="people">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
@@ -36,9 +36,9 @@ horizontal: true
   {% endfor %}
 
 {%- else -%}
-<!-- Display projects without categories -->
+<!-- Display people without categories -->
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
+  <!-- Generate cards for each people -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
