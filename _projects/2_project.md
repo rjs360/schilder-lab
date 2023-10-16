@@ -2,14 +2,13 @@
 layout: page
 title: project 2
 description: a project with a background image
-img: assets/img/3.jpg
+img: assets/img/be_picture.jpg
 importance: 2
 category: current #work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I spend most of my days trying to understand the strategies that animals use to meet their needs and how environment
+and biological characteristics shape their responses. I am particularly interested in questions about body size, energetics, and locomotion - which drew me to the Schilder Lab. Beyond my academic pursuits, you'll often find me walking a dog at the animal shelter, jogging, and drinking craft beers, sometimes all at once.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
