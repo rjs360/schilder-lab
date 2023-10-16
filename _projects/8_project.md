@@ -7,8 +7,7 @@ importance: 2
 category: current #work
 ---
 
-I spend most of my days trying to understand the strategies that animals use to meet their needs and how environment
-and biological characteristics shape their responses. I am particularly interested in questions about body size, energetics, and locomotion - which drew me to the Schilder Lab. Beyond my academic pursuits, you'll often find me walking a dog at the animal shelter, jogging, and drinking craft beers, sometimes all at once.
+Alejandro received his B.S. in Biology from Iowa State University in 2022. His previous undergrad research focused on the operative temperature of different species of bumblebees and how they were impacted by their coloration and caste. In 2022 Alejandro joined the Ecology PhD program at Penn State University under Dr. Margarita Lopez-Uribe and Dr. Ruud Schilder. Current research goals are to examine thermal tolerance of bees in the context of their phenology.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

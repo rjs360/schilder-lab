@@ -7,8 +7,7 @@ importance: 2
 category: current #work
 ---
 
-I spend most of my days trying to understand the strategies that animals use to meet their needs and how environment
-and biological characteristics shape their responses. I am particularly interested in questions about body size, energetics, and locomotion - which drew me to the Schilder Lab. Beyond my academic pursuits, you'll often find me walking a dog at the animal shelter, jogging, and drinking craft beers, sometimes all at once.
+Julie received their B.S. in Biology from Lynn University in 2022. Their previous undergraduate research investigated the effects of temperature on metabolic rate during development in alfalfa leafcutting bees. At Penn State University, Julie is co-advised by Drs. Margarita López-Uribe and Ruud Schilder at the Ecology program. Julie is interested in how abiotic and biotic stressors interact with pollinator health.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
