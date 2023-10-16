@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Be El Dash
+description: Graduate Student in integrative & Biomedical Physiology
 img: assets/img/be_picture.jpg
 importance: 2
 category: current #work
