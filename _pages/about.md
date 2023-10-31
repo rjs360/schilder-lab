@@ -20,6 +20,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This site is under construction - 07/14/23
+<strong>This site is under construction - 07/14/23</strong>
 
 Animals vary dramatically in size and weight, inhabit a variety of environments (air, water, terrestrial) and experience fluctuating environmental conditions. All animals need to move their bodies through these variable environments and most do so quite well. We seek to understand the morphological and physiological adaptations that allow animals to optimally support and move their body, and how these mechanisms are affected by the biotic and abiotic environment. Projects in the lab focus mainly on insect movement, but we don't shy away from studying other organisms!
+
+<strong>Interested in joining the lab? Please contact Schilder directly at <a href="mailto:rjs360@psu.edu">rjs360|at|psu|dot|edu</a>.</strong>
