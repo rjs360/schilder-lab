@@ -6,7 +6,7 @@ description: ongoing and past projects in the lab
 nav: true
 nav_order: 2
 display_categories: [ongoing, past]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
