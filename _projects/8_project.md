@@ -9,7 +9,7 @@ category: current #work
 
 Alejandro received his B.S. in Biology from Iowa State University in 2022. His previous undergrad research focused on the operative temperature of different species of bumblebees and how they were impacted by their coloration and caste. In 2022 Alejandro joined the Ecology PhD program at Penn State University under Dr. Margarita Lopez-Uribe and Dr. Ruud Schilder. Current research goals are to examine thermal tolerance of bees in the context of their phenology.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<!--To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -73,6 +73,6 @@ Here's the code for the last row of images above:
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
 ```
 {% endraw %}
