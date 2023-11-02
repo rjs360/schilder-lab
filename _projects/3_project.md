@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dr. nick ivers
+title: Dr. Nick Ivers
 description: Postdoctoral Scholar
 img: assets/img/Ivers_Headshot_3023.JPG
 #redirect: https://unsplash.com
