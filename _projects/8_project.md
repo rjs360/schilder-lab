@@ -2,7 +2,7 @@
 layout: page
 title: Alejandro Medina Valencia
 description: Graduate Student in Ecology
-img: assets/img/Alejandro_crop.png
+img: assets/img/alejandro_new.jpg
 importance: 2
 category: current #work
 ---

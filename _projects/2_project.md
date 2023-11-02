@@ -2,7 +2,7 @@
 layout: page
 title: Be Eldash
 description: Graduate Student in Integrative & Biomedical Physiology
-img: assets/img/be_picture_crop.png
+img: assets/img/be_picture.jpg
 importance: 2
 category: current #work
 ---

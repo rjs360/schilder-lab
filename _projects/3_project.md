@@ -2,7 +2,7 @@
 layout: page
 title: Dr. Nick Ivers
 description: Postdoctoral Scholar
-img: assets/img/Ivers_Headshot_3023.JPG
+img: assets/img/Ivers_Headshot_3023_small.jpg
 #redirect: https://unsplash.com
 importance: 3
 category: current #work
