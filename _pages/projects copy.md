@@ -6,7 +6,7 @@ description: current and former lab members
 nav: true
 nav_order: 3
 display_categories: [current, former]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
