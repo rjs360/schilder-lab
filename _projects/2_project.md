@@ -10,7 +10,7 @@ category: current #work
 I spend most of my days trying to understand the strategies that animals use to meet their needs and how environment
 and biological characteristics shape their responses. I am particularly interested in questions about body size, energetics, and locomotion - which drew me to the Schilder Lab. Beyond my academic pursuits, you'll often find me walking a dog at the animal shelter, jogging, and drinking craft beers, sometimes all at once.
 
-<!--To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -77,3 +77,4 @@ Here's the code for the last row of images above:
 </div> -->
 ```
 {% endraw %}
+ -->
