@@ -12,7 +12,8 @@ Nick is an ecologist with interests in multi-trophic species interactions, mostl
 
 He received his PhD from the University of Texas at Austin and studied parasitism in bees using both landscape epidemiology and community ecology. Currently, Nick is studying the physiological and metabolic consequences of parasitism in squash bees.
 
-<!--To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+{% comment %}
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -76,6 +77,7 @@ Here's the code for the last row of images above:
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div> -->
+</div>
 ```
 {% endraw %}
+{% endcomment %}
