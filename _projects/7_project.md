@@ -7,7 +7,7 @@ importance: 2
 category: current #work
 ---
 
-Julie received their B.S. in Biology from Lynn University in 2022. Their previous undergraduate research investigated the effects of temperature on metabolic rate during development in alfalfa leafcutting bees. At Penn State University, Julie is co-advised by Drs. Margarita López-Uribe and Ruud Schilder at the Ecology program. Julie is interested in how abiotic and biotic stressors interact with pollinator health.
+Jules received their B.S. in Biology from Lynn University in 2022. Their previous undergraduate research investigated the effects of temperature on metabolic rate during development in alfalfa leafcutting bees. At Penn State University, Jules is co-advised by Drs. Margarita López-Uribe and Ruud Schilder at the Ecology program. Jules is interested in how abiotic and biotic stressors interact with pollinator health.
 
 {% comment %}
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
