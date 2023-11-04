@@ -7,7 +7,6 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<div class="header-background"><div class="img1"></div></div>
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
