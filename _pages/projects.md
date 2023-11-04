@@ -10,7 +10,6 @@ horizontal: true
 ---
 
 <!-- pages/projects.md -->
-<div class="header-background"><div class="img2"></div></div>
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
