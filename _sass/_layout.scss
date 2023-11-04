@@ -58,6 +58,17 @@ body.sticky-bottom-footer {
   //filter:invert(89%)
 }
 
+.header-background .img2{
+  background-image:url("../img/moth_thermal_bw.png");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center bottom;
+  height:10em;
+  margin-bottom:2em;
+  margin-top:-2.7em;
+  //filter:invert(89%)
+}
+
 .header-background .img{
   background-image:url("../img/score_contour.jpg");
   background-repeat:no-repeat;
