@@ -11,6 +11,7 @@ horizontal: true
 
 <!-- pages/projects.md -->
 <div class="projects">
+<p> The ability to direct movement through the environment is crucial to animal fitness. Movement enables organisms to acquire food, avoid becoming food, and find and attract mates. The incredible range in animal size, evolutionary origin, and environmental pressures to do these things most optimally has led to a wide variety in locomotor design and performance range. Yet, most of these designs are built from a very similar set of of biological components. We are generally interested in the identity of mechanisms that allow(ed) this variation in design and performance to evolve in phylogenetically distinct species, but currently focus our work on mechanisms that control phenotypic plasticity in design and performance within single species. Interestingly, our work has demonstrated that at least one of these mechanisms is highly conserved across evolutionarily distant animal species.</p>
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
