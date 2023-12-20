@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 2
-description: environmental determinants of insect flight performance
+description: determinants of insect flight performance
 img: assets/img/12.jpg
 importance: 3
 category: ongoing research
