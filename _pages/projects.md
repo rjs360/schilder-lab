@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: ongoing and past projects in the lab
+description: ongoing research in the lab
 nav: true
 nav_order: 2
-display_categories: [ongoing, past]
+display_categories: [ongoing]
 horizontal: true
 ---
 
