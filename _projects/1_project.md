@@ -1,11 +1,11 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
+description: comparative studies of body size & musculoskeletal function
 img: assets/img/12.jpg
 importance: 1
 category: ongoing #work
-related_publications: einstein1956investigations, einstein1950meaning
+#related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
