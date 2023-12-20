@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rjs360.github.io/schilder-lab//schilder-lab/sitemap.xml
+Sitemap: https://rjs360.github.io/schilder-lab//sitemap.xml
