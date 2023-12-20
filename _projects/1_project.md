@@ -4,7 +4,7 @@ title: project 1
 description: comparative studies of body size & musculoskeletal function
 img: assets/img/12.jpg
 importance: 1
-category: ongoing #work
+category: ongoing research #work
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 

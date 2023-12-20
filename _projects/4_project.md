@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: project 2
+description: environmental determinants of insect flight performance
 img: assets/img/12.jpg
 importance: 3
-category: ongoing
+category: ongoing research
 ---
 
 Every project has a beautiful feature showcase page.
