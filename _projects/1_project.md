@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: comparative studies of body size & musculoskeletal function
+description: body size & musculoskeletal function
 img: assets/img/12.jpg
 importance: 1
 category: ongoing research #work
