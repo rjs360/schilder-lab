@@ -1,17 +1,18 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Dr. Nick Ivers
+description: Postdoctoral Scholar
+img: assets/img/Ivers_Headshot_3023_small.jpg
+#redirect: https://unsplash.com
 importance: 3
-category: work
+category: current #work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Nick is an ecologist with interests in multi-trophic species interactions, mostly between flowers, bees, and parasites. Before studying bees, he received his bachelor’s degree from Indiana University Bloomington and studied the genetic underpinnings of a developmental switch mechanism controlling cannibalism in nematode worms. 
 
+He received his PhD from the University of Texas at Austin and studied parasitism in bees using both landscape epidemiology and community ecology. Currently, Nick is studying the physiological and metabolic consequences of parasitism in squash bees.
+
+{% comment %}
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
@@ -79,3 +80,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+{% endcomment %}
