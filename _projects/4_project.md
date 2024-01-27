@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: determinants of insect flight performance
-img: assets/img/12.jpg
+title: determinants of insect flight performance
+description:
+img: assets/img/monarch_sequence_new.png
 importance: 3
 category: ongoing research
 ---
