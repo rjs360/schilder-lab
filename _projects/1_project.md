@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: body size & musculoskeletal function
-img: assets/img/12.jpg
+title: body size & musculoskeletal function
+description:
+img: assets/img/dfly_scaling.jpg
 importance: 1
 category: ongoing research #work
 #related_publications: einstein1956investigations, einstein1950meaning
