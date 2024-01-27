@@ -24,7 +24,8 @@ social: false  # includes social icons at the bottom of the page
 
 Animals vary dramatically in size and weight, inhabit a variety of environments (air, water, terrestrial) and experience fluctuating environmental conditions. All animals need to move their bodies through these variable environments and most do so quite well. We seek to understand the morphological and physiological adaptations that allow animals to optimally support and move their body, and how these mechanisms are affected by the biotic and abiotic environment. Projects in the lab focus mainly on insect movement, but we don't shy away from studying other organisms!
 
-
+<br>
+<br>
 <strong>Position available: Research Technologist</strong>
 
 The Schilder Lab seeks a research technician to support laboratory research on the biomechanics, physiology, and energetics of insect locomotion. The lab tends to operate at interfaces of biology and mechanical engineering, so the person hired in this position ideally should have some previous research experience in these realms of science, but this is not a requirement. Additionally, skills in manufacturing, electronics, and coding/scripting (e.g., MATLAB, python, etc.) are highly desirable. Independent research is supported and encouraged but is not part of regular duties. The person hired in this position will also aid graduate students in the lab and will assist with basic lab management (e.g., ordering supplies, submitting p-card receipts, laboratory inspections, etc.). The position requires a B.S. degree or higher in biology, entomology, mechanical engineering, or related discipline. This position would be ideal for a post-bac student seeking research experience prior to completing advanced degree studies. 
