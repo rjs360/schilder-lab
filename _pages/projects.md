@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: ongoing and past projects in the lab
+#description: research in the lab
 nav: true
 nav_order: 2
-display_categories: [ongoing, past]
-horizontal: true
+display_categories: [ongoing research]
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
@@ -56,4 +56,6 @@ horizontal: true
   </div>
   {%- endif -%}
 {%- endif -%}
+<br>
+<p> Current work in the lab aims to determine (1) mechanisms by which skeletal muscle responds to changes in body weight (e.g., loading, natural growth), energy availability and body temperature, and how environmental factors such as diet and infectious disease (2) interact with these mechanisms to determine locomotor phenotypes observed in nature, across an evolutionarily diverse set of animal species. Our work requires a multi-disciplinary approach, combining techniques from biomechanics and electrophysiology, behavioral ecology, ecological and molecular physiology, and broad sense functional genomics. Research projects in the lab and the animal models central to them therefore tend to vary in nature. As indicated earlier, most animals use skeletal muscles, and basic skeletal muscle structure and composition is highly conserved among animals. So, in order to derive general rules that govern how animals modify locomotor function in response to internal and external cues, we can and should study many animals that differ in locomotion type.</p>
 </div>

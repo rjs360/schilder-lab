@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: body size & musculoskeletal function
+description:
+img: assets/img/dfly_scaling.jpg
 importance: 1
-category: ongoing #work
-related_publications: einstein1956investigations, einstein1950meaning
+category: ongoing research #work
+#related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img: assets/img/12.jpg
+title: determinants of insect flight performance
+description:
+img: assets/img/monarch_sequence_new.png
 importance: 3
-category: ongoing
+category: ongoing research
 ---
 
 Every project has a beautiful feature showcase page.
