@@ -139,7 +139,7 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: rjs360.github.io/schilder-lab      # <your-github-user-name>/<your-github-repo-name>
+  repo: rjs360.github.io/schilder-lab/      # <your-github-user-name>/<your-github-repo-name>
   repo_id: 
   category: Comments             # name of the category under which discussions will be created
   category_id: 
